@@ -1,0 +1,139 @@
+<div align="center">
+  <h1 align="center">sCrypt 资源集锦</h1>
+  <p align="center">
+    <a href="https://github.com/sindresorhus/awesome">
+      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+    </a>
+    <a href="http://makeapullrequest.com">
+      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+    </a>
+  </p>
+  
+  <p align="center">比特币智能合约高级语言 <a href="https://scrypt.io">sCrypt</a> 相关学习资源、开发库、项目、工具等内容精编汇总。</p>
+  
+</div>
+
+### 内容
+
+- [官方](#官方)
+- [初学者教程](#初学者教程)
+- [文章](#文章)
+  - [官方博客](#官方博客)
+  - [社区文章](#社区文章)
+- [视频](#视频)
+- [样板代码](#样板代码)
+- [库合约](#库合约)
+- [SDKs](#sdks)
+- [集成开发环境](#集成开发环境)
+- [实际应用](#实际应用)
+- [钱包支持](#钱包支持)
+- [交流社区](#交流社区)
+- [License](#license)
+
+
+## 官方
+
+- [网站](https://scrypt.io) - 官方网址
+- [sCrypt 语言文档](https://scryptdoc.readthedocs.io/zh_CN/latest/syntax.html) - 开发语言官方文档
+- [IDE 文档](https://scrypt-ide.readthedocs.io/zh_CN/latest/index.html) - 桌面 IDE 官方文档
+- [博客](https://blog.csdn.net/freedomhero) - 官方中文博客
+
+## 初学者教程
+
+- [比特币智能合约入门（1）](https://blog.csdn.net/freedomhero/article/details/106801904) - UTXO 模型、比特币虚拟机及脚本简介
+- [比特币智能合约入门（2）](https://blog.csdn.net/freedomhero/article/details/107104952) - sCrypt 高级语言简介
+- [比特币智能合约入门（3）](https://blog.csdn.net/freedomhero/article/details/107127341) - sCrypt 开发工具 Visual Studio Code 插件介绍
+- [比特币智能合约入门（4）](https://blog.csdn.net/freedomhero/article/details/107235041) - sCrypt 合约实战之 P2PKH 合约化
+-  [比特币与以太坊智能合约比较](https://blog.csdn.net/freedomhero/article/details/117924646) - UTXO 模型优势
+- [实现有状态的比特币智能合约](https://blog.csdn.net/freedomhero/article/details/107307306) - 有状态合约简介
+-  [基于 sCrypt 合约开发一个完整的 dApp：井字棋游戏](https://blog.csdn.net/freedomhero/article/details/115419901) - 一个完整 DApp 的开发、测试、部署全流程演示
+
+
+## 文章
+
+### 官方博客
+
+- [使用 sCrypt 智能合约在比特币上实现康威生命游戏](https://blog.csdn.net/freedomhero/article/details/111152834) - 一个简单的游戏合约
+- [比特币上的数独游戏合约](https://blog.csdn.net/freedomhero/article/details/112758212) - 一个可实现链上外包求解数独的合约
+- [比特币网络上公平的掷硬币游戏](https://blog.csdn.net/freedomhero/article/details/114257034) - 链上掷硬币游戏合约
+- [比特币网络上的拍卖合约](https://blog.csdn.net/freedomhero/article/details/114638176) 
+- [比特币上的机器学习-基于SVD的图像售卖合约](https://blog.csdn.net/freedomhero/article/details/115856795)
+- [在比特币上构建机器学习竞赛市场](https://blog.csdn.net/freedomhero/article/details/119204702)
+- [比特币智能合约 2.0（1）](https://blog.csdn.net/freedomhero/article/details/115862217) - 一种链上链下相结合的智能合约设计新思路
+- [更多内容](https://blog.csdn.net/freedomhero)
+
+### 社区文章
+
+- [水龙头合约](https://blog.csdn.net/Edward_sv/article/details/109119838) - 基于智能合约的链上水龙头合约（by 老刘-Edward）
+- [Bitcoin Computer——Token合约](https://blog.csdn.net/Edward_sv/article/details/109586517) - Token 示例合约解析（by 老刘-Edward）
+- [打开sCrypt的盒子（1）P2PKH合约](https://blog.csdn.net/weixin_47461167/article/details/108368848?spm=1001.2014.3001.5501) - sCrypt 入门合约解析（by Note.SV-李龍）
+-  [打开sCrypt的盒子（2）Demo合约](https://blog.csdn.net/weixin_47461167/article/details/108390203?spm=1001.2014.3001.5501) - sCrypt 入门合约解析（by Note.SV-李龍）
+-  [SPV Token 优化](https://powping.com/posts/28182efcc5b7ea2bf726e56599d58deb19b8b3933782e4174ce1af03e09cd359/comments/2e3545f5365472f33f01826c06a173dd394a326811deed3eacecc8e8917c273f#_2e3545f5365472f33f01826c06a173dd394a326811deed3eacecc8e8917c273f) - 一个针对 SPV Token 样例合约的优化实现（by microserver）
+-  [在BSV链上建立带有互换(swap)功能的token合约](https://zhuanlan.zhihu.com/p/312024053) - by 王彼特
+-  [通过oracle建立Bsv的链上二元期权合约](https://zhuanlan.zhihu.com/p/276215975) - by 王彼特
+-  [bsv链上双人玩剪刀石头布](https://blog.csdn.net/jiedo/article/details/111187530) - by jiedo
+- [部分文章索引](https://wiki.bsv.info/scrypt)
+
+## 视频
+
+- [中国 Devcon 2020 演讲](https://www.bilibili.com/video/BV1yT4y1L7gx) - 使用 sCrypt 在比特币上开发智能合约
+- [Bitcoin SV智能合约开发教程（一）](https://live.csdn.net/v/145948?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162877393716780255210029%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fvideo.%2522%257D&request_id=162877393716780255210029&biz_id=&utm_medium=distribute.pc_search_result.none-task-short_video-2~video~first_rank_v2~rank_v29-8-145948.nonecase&utm_term=bitcoin+sv) - 区块链智能合约入门
+- [Bitcoin SV智能合约开发教程（二）](https://live.csdn.net/v/146834?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162877393716780255210029%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fvideo.%2522%257D&request_id=162877393716780255210029&biz_id=&utm_medium=distribute.pc_search_result.none-task-short_video-2~video~first_rank_v2~rank_v29-11-146834.nonecase&utm_term=bitcoin+sv) - 比特币智能合约和 sCrypt 简介
+- [Bitcoin SV智能合约开发教程（三）](https://live.csdn.net/v/148403?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162877393716780255210029%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fvideo.%2522%257D&request_id=162877393716780255210029&biz_id=&utm_medium=distribute.pc_search_result.none-task-short_video-2~video~first_rank_v2~rank_v29-10-148403.nonecase&utm_term=bitcoin+sv) - sCrypt 智能合约开发工具简介
+- [Bitcoin SV智能合约开发教程（四）](https://live.csdn.net/v/156027?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162877393716780255210029%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fvideo.%2522%257D&request_id=162877393716780255210029&biz_id=&utm_medium=distribute.pc_search_result.none-task-short_video-2~video~first_rank_v2~rank_v29-13-156027.nonecase&utm_term=bitcoin+sv) - `OP_PUSH_TX` 技术及有状态 sCrypt 智能合约介绍
+- [Bitcoin SV智能合约开发实践](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=8) - sCrypt 语言新特性及合约范例解析
+
+
+## 样板代码
+
+- [sCrypt Project Boilerplate](https://github.com/sCrypt-Inc/boilerplate) - 官方及社区共同维护的 sCrypt 合约实例及测试代码，数量已超过 80 个并持续增长中；
+
+
+## 库合约
+
+- [深入学习比特币脚本之 OP_PUSH_TX（1）](https://blog.csdn.net/freedomhero/article/details/107306604) - OP_PUSH_TX 技术介绍
+- [深入学习比特币脚本之 OP_PUSH_TX（2）](https://blog.csdn.net/freedomhero/article/details/107333738) - OP_PUSH_TX 技术介绍
+- [预言机与 Rabin 签名在比特币智能合约中的应用原理](https://blog.csdn.net/freedomhero/article/details/107237537)  - Rabin 签名及应用
+- [如何在 sCrypt 合约中实现浮点数运算](https://blog.csdn.net/freedomhero/article/details/118709814) - 合约内的高精度计算
+- [使用 Merklized 抽象语法树压缩智能合约](https://blog.csdn.net/freedomhero/article/details/119301247) - 合约优化
+
+
+## SDKs
+
+- [scryptlib](https://github.com/sCrypt-Inc/scryptlib) - Javascript / Typescript.
+- [scryptlib-python](https://github.com/sCrypt-Inc/scryptlib-python) - Python.
+
+
+## 集成开发环境
+
+- [桌面版](https://marketplace.visualstudio.com/items?itemName=bsv-scrypt.sCrypt) - Visual Studio Code 插件 IDE
+- [云版](https://scrypt.studio) - 在线开发环境
+
+
+## 实际应用
+- [感应合约](https://sensiblecontract.org/) - 一个基于 sCrypt 的智能合约溯源及协作协议
+- [TokenSwap](https://tswap.io) - 基于BSV网络的去中心化交易所
+- [小聪游戏](https://satoplay.com/pc.html) - 基于BSV网络的游戏平台，平台通证和 NFT 使用了感应合约
+- [ShowApp](https://show.sv/) - 基于MetaID的社交软件和钱包，平台通证和NFT将使用感应合约
+
+
+## 钱包支持
+
+- [打点钱包](https://www.dotwallet.com/en/article/269)
+- [Volt钱包](https://volt.id/#/)
+
+
+## 交流社区
+
+- [Slack](https://join.slack.com/t/scryptworkspace/shared_invite/enQtNzQ1OTMyNDk1ODU3LTJmYjE5MGNmNDZhYmYxZWM4ZGY2MTczM2NiNTIxYmFhNTVjNjE5MGYwY2UwNDYxMTQyNGU2NmFkNTY5MmI1MWM) - 官方技术交流社区
+- [Github](https://github.com/sCrypt-Inc) - 开源合约、SDK、实例 dApp 代码
+- [Telegram](https://t.me/joinchat/GwaRAxKT16JjXyHt5PuhHw) - 电报群
+
+
+---
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+在法律允许的范围内，sCrypt Inc 放弃了本作品的所有版权和相关或邻接权。
