@@ -67,7 +67,7 @@
 ### Community
 - [TimeLock Bitcoin and Tokens via sCrypt](https://www.bitpost.app/u/joshua/timelock-bitcoin-and-tokens-via-scrypt--PHoxTNy) - Provably lock up bitcoins/tokens till a certain time by Joshua Henslee.
 - [Non-Custodial Agent Bitcoin Transfer](https://medium.com/tokenized-blog/non-custodial-agent-bitcoin-transfer-afacb9c4c625) - Avoid custodial risk using OP_PUSH_TX by Tokenized.
-
+- [Merkle tree proof based data storage](https://powping.com/posts/fe6cc987ecfc2f799ed465b41bc959e4c58f2fe8b2af477ce27da49103f26bf9) - A contract data storage approach by zhangweis. 
 
 ## Videos
 
