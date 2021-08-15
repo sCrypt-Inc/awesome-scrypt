@@ -125,6 +125,7 @@
 
 ## 交流社区
 
+- [微信](https://scrypt.io/static/img/wechat-qrcode.jpg) - 官方微信群
 - [Slack](https://join.slack.com/t/scryptworkspace/shared_invite/enQtNzQ1OTMyNDk1ODU3LTJmYjE5MGNmNDZhYmYxZWM4ZGY2MTczM2NiNTIxYmFhNTVjNjE5MGYwY2UwNDYxMTQyNGU2NmFkNTY5MmI1MWM) - 官方技术交流社区
 - [Github](https://github.com/sCrypt-Inc) - 开源合约、SDK、实例 dApp 代码
 - [Telegram](https://t.me/joinchat/GwaRAxKT16JjXyHt5PuhHw) - 电报群
