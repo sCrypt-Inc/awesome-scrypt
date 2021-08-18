@@ -82,7 +82,7 @@
 - [Bitcoin SV智能合约开发教程（三）](https://live.csdn.net/v/148403?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162877393716780255210029%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fvideo.%2522%257D&request_id=162877393716780255210029&biz_id=&utm_medium=distribute.pc_search_result.none-task-short_video-2~video~first_rank_v2~rank_v29-10-148403.nonecase&utm_term=bitcoin+sv) - sCrypt 智能合约开发工具简介
 - [Bitcoin SV智能合约开发教程（四）](https://live.csdn.net/v/156027?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162877393716780255210029%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fvideo.%2522%257D&request_id=162877393716780255210029&biz_id=&utm_medium=distribute.pc_search_result.none-task-short_video-2~video~first_rank_v2~rank_v29-13-156027.nonecase&utm_term=bitcoin+sv) - `OP_PUSH_TX` 技术及有状态 sCrypt 智能合约介绍
 - [Bitcoin SV智能合约开发实践](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=8) - sCrypt 语言新特性及合约范例解析
-
+- [DotCamp打点创新营](https://www.bilibili.com/video/BV1kr4y1c76Y?share_source=copy_web) - 使用sCrypt开发比特币智能合约
 
 ## 样板代码
 
