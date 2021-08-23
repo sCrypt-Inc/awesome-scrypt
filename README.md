@@ -122,6 +122,7 @@
 ## Wallet Supports
 
 - [DotWallet](https://www.dotwallet.com/en/article/269) - Support arbitrary sCrypt Smart Contracts, like MetaMask.
+- [Volt](https://volt.id)
 
 
 ## Community
