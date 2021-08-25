@@ -65,7 +65,9 @@
 ### 社区文章
 
 - [水龙头合约](https://blog.csdn.net/Edward_sv/article/details/109119838) - 基于智能合约的链上水龙头合约（by 老刘-Edward）
-- [Bitcoin Computer——Token合约](https://blog.csdn.net/Edward_sv/article/details/109586517) - Token 示例合约解析（by 老刘-Edward）
+- [Oracle token方案](https://blog.csdn.net/Edward_sv/article/details/110977950) - 一种Oracle token方案的概述（by 老刘-Edward)
+- [BSV智能合约（一）](https://blog.csdn.net/Edward_sv/article/details/106688515) - 看似不可能完成的任务（by 老刘-Edward)
+- [BSV智能合约（二）](https://blog.csdn.net/Edward_sv/article/details/106688661) - 计数器合约代码分析（by 老刘-Edward)
 - [打开sCrypt的盒子（1）P2PKH合约](https://blog.csdn.net/weixin_47461167/article/details/108368848?spm=1001.2014.3001.5501) - sCrypt 入门合约解析（by Note.SV-李龍）
 -  [打开sCrypt的盒子（2）Demo合约](https://blog.csdn.net/weixin_47461167/article/details/108390203?spm=1001.2014.3001.5501) - sCrypt 入门合约解析（by Note.SV-李龍）
 -  [SPV Token 优化](https://powping.com/posts/28182efcc5b7ea2bf726e56599d58deb19b8b3933782e4174ce1af03e09cd359/comments/2e3545f5365472f33f01826c06a173dd394a326811deed3eacecc8e8917c273f#_2e3545f5365472f33f01826c06a173dd394a326811deed3eacecc8e8917c273f) - 一个针对 SPV Token 样例合约的优化实现（by microserver）
