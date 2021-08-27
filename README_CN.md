@@ -86,6 +86,8 @@
 - [Bitcoin SV智能合约开发实践](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=8) - sCrypt 语言新特性及合约范例解析
 - [DotCamp打点创新营](https://www.bilibili.com/video/BV1kr4y1c76Y?share_source=copy_web) - 使用sCrypt开发比特币智能合约
 
+- [开发者交流会议](https://onedrive.live.com/?authkey=%21ABUlwbHMFKmhBho&id=9B11F5744FADFBED%212891&cid=9B11F5744FADFBED)
+
 ## 样板代码
 
 - [sCrypt Project Boilerplate](https://github.com/sCrypt-Inc/boilerplate) - 官方及社区共同维护的 sCrypt 合约实例及测试代码，数量已超过 80 个并持续增长中；
