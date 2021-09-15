@@ -73,7 +73,12 @@
 -  [SPV Token 优化](https://powping.com/posts/28182efcc5b7ea2bf726e56599d58deb19b8b3933782e4174ce1af03e09cd359/comments/2e3545f5365472f33f01826c06a173dd394a326811deed3eacecc8e8917c273f#_2e3545f5365472f33f01826c06a173dd394a326811deed3eacecc8e8917c273f) - 一个针对 SPV Token 样例合约的优化实现（by microserver）
 -  [在BSV链上建立带有互换(swap)功能的token合约](https://zhuanlan.zhihu.com/p/312024053) - by 王彼特
 -  [通过oracle建立Bsv的链上二元期权合约](https://zhuanlan.zhihu.com/p/276215975) - by 王彼特
+-  [BSV上的一种Fungible Token协议实现方案](https://zhuanlan.zhihu.com/p/349992213) - by 王彼特
+-  [实现bsv上token的Pay to Contract](https://zhuanlan.zhihu.com/p/335212771) - by 王彼特
 -  [bsv链上双人玩剪刀石头布](https://blog.csdn.net/jiedo/article/details/111187530) - by jiedo
+-  [聊聊比特币BSV上的智能合约（一）](https://zhuanlan.zhihu.com/p/352208466) - by 区块链旺仔
+-  [聊聊比特币BSV上的智能合约-预言机（Oracle)](https://zhuanlan.zhihu.com/p/356192260) - by 区块链旺仔
+-  [浅谈比特币UTXO模型和以太坊账户模型的优劣](https://zhuanlan.zhihu.com/p/264882173) - by 区块链旺仔
 - [部分文章索引](https://wiki.bsv.info/scrypt)
 
 ## 视频
