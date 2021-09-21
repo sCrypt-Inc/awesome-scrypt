@@ -73,7 +73,7 @@
 ## Videos
 
 - [Learning sCrypt](https://www.youtube.com/playlist?list=PL0Kn1t30VSpG4Fu2ze81uDptBd1ZML99A) - A tutorial series teaching sCrypt
-- [Bitcoin Class with Satoshi](https://www.youtube.com/channel/UCzQsmR836zW8b1kh03Ht04w) - Weekly Bitcoin class with Dr. Craig Wright and Xiaohui Liu.
+- [Bitcoin Class with Satoshi](https://youtube.com/playlist?list=PL0Kn1t30VSpEmlsKxlTrlW7s9zGoLgJFY) - Weekly Bitcoin class with Dr. Craig Wright and Xiaohui Liu.
 - [Smart Contracts with sCrypt](https://youtube.com/watch?v=neFzipqzegU) - 4-part series by Stephan February of TwoStack.
 - [Getting Started with sCrypt](https://www.buildonbsv.com/) - Setup, deploy, and line-by-line breakdown of an escrow contract by Ty Everett.
 - [sCrypt Online Meetups](https://www.youtube.com/playlist?list=PL0Kn1t30VSpFvpa872C_sZLwFaccHxU9W) - Recordings of sCrypt meetups
