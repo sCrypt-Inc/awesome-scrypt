@@ -110,7 +110,7 @@
 ## SDKs
 
 - [scryptlib](https://github.com/sCrypt-Inc/scryptlib) - Javascript / Typescript.
-- [scryptlib-python](https://github.com/sCrypt-Inc/scryptlib-python) - Python.
+- [py-scryptlib](https://github.com/sCrypt-Inc/py-scryptlib) - Python.
 
 
 ## 集成开发环境
