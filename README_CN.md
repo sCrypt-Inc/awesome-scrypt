@@ -111,6 +111,7 @@
 
 - [scryptlib](https://github.com/sCrypt-Inc/scryptlib) - Javascript / Typescript.
 - [py-scryptlib](https://github.com/sCrypt-Inc/py-scryptlib) - Python.
+- [go-scryptlib](https://github.com/sCrypt-Inc/go-scryptlib) - Go.
 
 
 ## 集成开发环境
