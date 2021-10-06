@@ -41,6 +41,7 @@
 
 ## Tutorials
 
+- [Learn sCrypt](https://learn.scrypt.io) - An interactive learning website, #1 sCrypt tutorial.
 - [Introduction to Bitcoin Smart Contracts](https://xiaohuiliu.medium.com/introduction-to-bitcoin-smart-contracts-9c0ea37dc757) - Introduction on UTXO Model, Bitcoin Virtual Machine, and Script.
 - [A Step-by-Step Guide to Developing Bitcoin Smart Contracts](https://xiaohuiliu.medium.com/a-step-by-step-guide-to-developing-bitcoin-smart-contracts-e43f00f42f05) - Complete workflow of the design, development, testing, deployment, and invocation process of sCrypt smart contracts.
 - [Full Stack Bitcoin Dapp Tutorial](https://xiaohuiliu.medium.com/full-stack-bitcoin-dapp-tutorial-adff2bc4f657) - Build a full-stack decentralized Tic-Tac-Toe with a frontend.

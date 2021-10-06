@@ -40,6 +40,7 @@
 
 ## 初学者教程
 
+- [Learn sCrypt](https://learn.scrypt.io/?lang=zh) - 交互式学习网站, 初学者首选
 - [比特币智能合约入门（1）](https://blog.csdn.net/freedomhero/article/details/106801904) - UTXO 模型、比特币虚拟机及脚本简介
 - [比特币智能合约入门（2）](https://blog.csdn.net/freedomhero/article/details/107104952) - sCrypt 高级语言简介
 - [比特币智能合约入门（3）](https://blog.csdn.net/freedomhero/article/details/107127341) - sCrypt 开发工具 Visual Studio Code 插件介绍
