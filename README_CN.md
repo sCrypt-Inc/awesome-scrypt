@@ -80,6 +80,7 @@
 -  [聊聊比特币BSV上的智能合约（一）](https://zhuanlan.zhihu.com/p/352208466) - by 区块链旺仔
 -  [聊聊比特币BSV上的智能合约-预言机（Oracle)](https://zhuanlan.zhihu.com/p/356192260) - by 区块链旺仔
 -  [浅谈比特币UTXO模型和以太坊账户模型的优劣](https://zhuanlan.zhihu.com/p/264882173) - by 区块链旺仔
+-  [使用见证人服务构建第三方参与的比特币合约](https://blog.csdn.net/weixin_47461167/article/details/117662439) - (by Note.SV-李龍)
 - [部分文章索引](https://wiki.bsv.info/scrypt)
 
 ## 视频
