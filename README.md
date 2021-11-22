@@ -68,6 +68,7 @@
 ### Community
 - [TimeLock Bitcoin and Tokens via sCrypt](https://www.bitpost.app/u/joshua/timelock-bitcoin-and-tokens-via-scrypt--PHoxTNy) - Provably lock up bitcoins/tokens till a certain time by Joshua Henslee.
 - [Non-Custodial Agent Bitcoin Transfer](https://medium.com/tokenized-blog/non-custodial-agent-bitcoin-transfer-afacb9c4c625) - Avoid custodial risk using OP_PUSH_TX by Tokenized.
+- [How to "Hack" OP_PUSH_TX](https://www.getrevue.co/profile/NikamotoSV/issues/a-1-65k-probability-to-fail-875203) - by frenchfrog42
 - [Merkle tree proof based data storage](https://powping.com/posts/fe6cc987ecfc2f799ed465b41bc959e4c58f2fe8b2af477ce27da49103f26bf9) - A contract data storage approach by zhangweis.
 - [Bitcoin Script Engineering part II](https://medium.com/@Stas33496115/bitcoin-script-engineering-part-ii-ba8095f093c0) - Weather Derivative contract by Stas Trock.
 - [Alan meets Satoshi](https://shilch.me/bitcoin-turing-complete/) - Understanding the bitcoin [turing completeness proof](https://xiaohuiliu.medium.com/turing-machine-on-bitcoin-7f0ebe0d52b1) of X. Liu by shilch
