@@ -128,7 +128,7 @@
 - [TokenSwap](https://tswap.io) - 基于BSV网络的去中心化交易所
 - [小聪游戏](https://satoplay.com/pc.html) - 基于BSV网络的游戏平台，平台通证和 NFT 使用了感应合约
 - [ShowApp](https://show.sv/) - 基于MetaID的社交软件和钱包，平台通证和NFT将使用感应合约
-
+- [CUTP](https://github.com/CUTP) - Controllable UTXO Token协议
 
 ## 钱包支持
 

@@ -125,6 +125,7 @@
 ## Applications
 
 - [TokenSwap](https://tswap.io) - Onchain DEX.
+- [CUTP](https://github.com/CUTP) - Controllable UTXO Token Protocol.
 
 
 ## Wallet Supports
