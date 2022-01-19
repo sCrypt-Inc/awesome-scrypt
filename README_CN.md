@@ -87,6 +87,7 @@
 
 ## 视频
 
+- [开发者交流会议](https://space.bilibili.com/1294122227/channel/seriesdetail?sid=538938) - 每周官方meetup
 - [中国 Devcon 2020 演讲](https://www.bilibili.com/video/BV1yT4y1L7gx) - 使用 sCrypt 在比特币上开发智能合约
 - [Bitcoin SV智能合约开发教程（一）](https://live.csdn.net/v/145948?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162877393716780255210029%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fvideo.%2522%257D&request_id=162877393716780255210029&biz_id=&utm_medium=distribute.pc_search_result.none-task-short_video-2~video~first_rank_v2~rank_v29-8-145948.nonecase&utm_term=bitcoin+sv) - 区块链智能合约入门
 - [Bitcoin SV智能合约开发教程（二）](https://live.csdn.net/v/146834?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162877393716780255210029%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fvideo.%2522%257D&request_id=162877393716780255210029&biz_id=&utm_medium=distribute.pc_search_result.none-task-short_video-2~video~first_rank_v2~rank_v29-11-146834.nonecase&utm_term=bitcoin+sv) - 比特币智能合约和 sCrypt 简介
@@ -95,7 +96,6 @@
 - [Bitcoin SV智能合约开发实践](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=8) - sCrypt 语言新特性及合约范例解析
 - [DotCamp打点创新营](https://www.bilibili.com/video/BV1kr4y1c76Y?share_source=copy_web) - 使用sCrypt开发比特币智能合约
 
-- [开发者交流会议](https://onedrive.live.com/?authkey=%21ABUlwbHMFKmhBho&id=9B11F5744FADFBED%212891&cid=9B11F5744FADFBED)
 - [感应合约简介和基本原理](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=10) - 顾露 Bootcamp 2021
 - [感应合约应用:三方交易等应用方向及案例](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=12) - 蒋杰 Bootcamp 2021
 - [sCrypt的工程化实践经验](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=9) - 蒋杰 Bootcamp 2021
