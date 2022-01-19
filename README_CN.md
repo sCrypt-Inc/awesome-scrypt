@@ -70,6 +70,7 @@
 - [Oracle token方案](https://blog.csdn.net/Edward_sv/article/details/110977950) - 一种Oracle token方案的概述（by 老刘-Edward)
 - [BSV智能合约（一）](https://blog.csdn.net/Edward_sv/article/details/106688515) - 看似不可能完成的任务（by 老刘-Edward)
 - [BSV智能合约（二）](https://blog.csdn.net/Edward_sv/article/details/106688661) - 计数器合约代码分析（by 老刘-Edward)
+- [感应合约的简介和基本原理](https://gulu-dev.com/post/2021/2021-05-01-sensible-intro) - 顾露 东澳岛BSV第一届训练营 (Bootcamp)
 - [打开sCrypt的盒子（1）P2PKH合约](https://blog.csdn.net/weixin_47461167/article/details/108368848?spm=1001.2014.3001.5501) - sCrypt 入门合约解析（by Note.SV-李龍）
 -  [打开sCrypt的盒子（2）Demo合约](https://blog.csdn.net/weixin_47461167/article/details/108390203?spm=1001.2014.3001.5501) - sCrypt 入门合约解析（by Note.SV-李龍）
 -  [SPV Token 优化](https://powping.com/posts/28182efcc5b7ea2bf726e56599d58deb19b8b3933782e4174ce1af03e09cd359/comments/2e3545f5365472f33f01826c06a173dd394a326811deed3eacecc8e8917c273f#_2e3545f5365472f33f01826c06a173dd394a326811deed3eacecc8e8917c273f) - 一个针对 SPV Token 样例合约的优化实现（by microserver）
@@ -95,6 +96,11 @@
 - [DotCamp打点创新营](https://www.bilibili.com/video/BV1kr4y1c76Y?share_source=copy_web) - 使用sCrypt开发比特币智能合约
 
 - [开发者交流会议](https://onedrive.live.com/?authkey=%21ABUlwbHMFKmhBho&id=9B11F5744FADFBED%212891&cid=9B11F5744FADFBED)
+- [感应合约简介和基本原理](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=10) - 顾露 Bootcamp 2021
+- [感应合约应用:三方交易等应用方向及案例](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=12) - 蒋杰 Bootcamp 2021
+- [sCrypt的工程化实践经验](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=9) - 蒋杰 Bootcamp 2021
+- [Sensible Fungible Token 方案](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=11) - 陈诚 Bootcamp 2021
+- [感应合约开发工具与开发资源介绍](https://www.bilibili.com/video/BV1H34y197kX) - 陈耀欢 DEVCON 2021
 
 ## 样板代码
 
