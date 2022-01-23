@@ -21,7 +21,7 @@
   - [官方博客](#官方博客)
   - [社区文章](#社区文章)
 - [视频](#视频)
-- [样板代码](#样板代码)
+- [示例代码](#示例代码)
 - [库合约](#库合约)
 - [SDKs](#sdks)
 - [集成开发环境](#集成开发环境)
@@ -102,9 +102,13 @@
 - [Sensible Fungible Token 方案](https://www.bilibili.com/video/BV1EZ4y1F7r7?p=11) - 陈诚 Bootcamp 2021
 - [感应合约开发工具与开发资源介绍](https://www.bilibili.com/video/BV1H34y197kX) - 陈耀欢 DEVCON 2021
 
-## 样板代码
+## 示例代码
 
 - [sCrypt Project Boilerplate](https://github.com/sCrypt-Inc/boilerplate) - 官方及社区共同维护的 sCrypt 合约实例及测试代码，数量已超过 80 个并持续增长中；
+- [Gist](https://gist.github.com/ccoincash) - 示例合约和部署代码，包含token sale, 交易解析, merkle tree, token swap, and 二元期权 by 陈诚
+- [Sensible Fungible Token](https://github.com/sensible-contract/token_sensible)
+- [Sensible NFT](https://github.com/sensible-contract/nft)
+- [Sensible NFT拍卖](https://github.com/sensible-contract/nft-auction-js)
 
 
 ## 库合约

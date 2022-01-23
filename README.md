@@ -22,7 +22,7 @@
   - [From Official Blog](#from-official-blog)
   - [Community](#community)
 - [Videos](#videos)
-- [Boilerplates](#boilerplates)
+- [Code Samples](#code-samples)
 - [Libraries](#libraries)
 - [SDKs](#sdks)
 - [IDEs](#ides)
@@ -92,10 +92,13 @@
 - [How to Program Smart Contracts on BSV](https://youtu.be/9v3bKpvABXA) - Demonstrate how to build Smart Contracts using sCrypt at BSV SF Meetup 2019 by X. Liu.
 
 
-## Boilerplates
+## Code Samples
 
 - [sCrypt Project Boilerplate](https://github.com/sCrypt-Inc/boilerplate) - Official boilerplate with 80 contract examples and growing.
-
+- [Gist](https://gist.github.com/ccoincash) - Sample contract and deploy code for token sale, transaction parsing, merkle tree, token swap, and binary option by ccoincash
+- [Sensible Fungible Token](https://github.com/sensible-contract/token_sensible)
+- [Sensible NFT](https://github.com/sensible-contract/nft)
+- [Sensible NFT Auction](https://github.com/sensible-contract/nft-auction-js)
 
 ## Libraries
 
