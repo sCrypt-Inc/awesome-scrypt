@@ -109,7 +109,7 @@
 - [Sensible Fungible Token](https://github.com/sensible-contract/token_sensible)
 - [Sensible NFT](https://github.com/sensible-contract/nft)
 - [Sensible NFT拍卖](https://github.com/sensible-contract/nft-auction-js)
-
+- [价格对赌](https://gist.github.com/gitzhou/7f4f8709590995ac8b7c008d7860bada) - 价格信息来自Oracle WitnessOnChain
 
 ## 库合约
 

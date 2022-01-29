@@ -99,6 +99,7 @@
 - [Sensible Fungible Token](https://github.com/sensible-contract/token_sensible)
 - [Sensible NFT](https://github.com/sensible-contract/nft)
 - [Sensible NFT Auction](https://github.com/sensible-contract/nft-auction-js)
+- [Pricing betting](https://gist.github.com/gitzhou/7f4f8709590995ac8b7c008d7860bada) - price info from Oracle WitnessOnChain
 
 ## Libraries
 
