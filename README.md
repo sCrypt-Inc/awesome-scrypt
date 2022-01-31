@@ -73,6 +73,7 @@
 - [Merkle tree proof based data storage](https://powping.com/posts/fe6cc987ecfc2f799ed465b41bc959e4c58f2fe8b2af477ce27da49103f26bf9) - A contract data storage approach by zhangweis.
 - [Bitcoin Script Engineering part II](https://medium.com/@Stas33496115/bitcoin-script-engineering-part-ii-ba8095f093c0) - Weather Derivative contract by Stas Trock.
 - [Alan meets Satoshi](https://shilch.me/bitcoin-turing-complete/) - Understanding the bitcoin [turing completeness proof](https://xiaohuiliu.medium.com/turing-machine-on-bitcoin-7f0ebe0d52b1) of X. Liu by shilch
+- [trustless on-chain Bitcoin vanity address generation](https://medium.com/@sinkec.mihael/on-chain-outsourcing-of-vanity-address-generation-on-bitcoin-fe816729be06) by msinkec
 
 ## Videos
 
