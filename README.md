@@ -74,6 +74,7 @@
 - [Bitcoin Script Engineering part II](https://medium.com/@Stas33496115/bitcoin-script-engineering-part-ii-ba8095f093c0) - Weather Derivative contract by Stas Trock.
 - [Alan meets Satoshi](https://shilch.me/bitcoin-turing-complete/) - Understanding the bitcoin [turing completeness proof](https://xiaohuiliu.medium.com/turing-machine-on-bitcoin-7f0ebe0d52b1) of X. Liu by shilch
 - [trustless on-chain Bitcoin vanity address generation](https://medium.com/@sinkec.mihael/on-chain-outsourcing-of-vanity-address-generation-on-bitcoin-fe816729be06) by msinkec
+- [global unique ID enforced by miners](https://github.com/mr-word/manadocs-public/blob/master/for-bsv-devs.md) a proposal to have L1 tokens by Mr Word
 
 ## Videos
 
