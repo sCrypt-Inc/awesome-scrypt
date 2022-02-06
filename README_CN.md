@@ -83,6 +83,12 @@
 -  [聊聊比特币BSV上的智能合约-预言机（Oracle)](https://zhuanlan.zhihu.com/p/356192260) - by 区块链旺仔
 -  [浅谈比特币UTXO模型和以太坊账户模型的优劣](https://zhuanlan.zhihu.com/p/264882173) - by 区块链旺仔
 -  [使用见证人服务构建第三方参与的比特币合约](https://blog.csdn.net/weixin_47461167/article/details/117662439) - (by Note.SV-李龍)
+- [Pushdata 的“最小推送”规则](https://aaron67.cc/2022/02/06/pushdata-minimal-push-rule/) - by Aaron
+- [Rabin 数字签名](https://aaron67.cc/2021/07/10/rabin-signatures/) - by Aaron
+- [我被盗了 600 BSV](https://aaron67.cc/2020/11/08/lost-600-bsv/) - by Aaron
+- [OP_RETURN](https://aaron67.cc/2018/12/31/bitcoin-transaction-null-data/) - by Aaron
+- [比特币交易的脚本](https://aaron67.cc/2018/12/26/bitcoin-transaction-script/) - by Aaron
+- [比特币脚本里的整数](https://aaron67.cc/2022/02/07/numbers-in-bsv-script/) - by Aaron
 - [部分文章索引](https://wiki.bsv.info/scrypt)
 
 ## 视频
