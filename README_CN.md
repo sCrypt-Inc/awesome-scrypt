@@ -89,6 +89,7 @@
 - [OP_RETURN](https://aaron67.cc/2018/12/31/bitcoin-transaction-null-data/) - by Aaron
 - [比特币交易的脚本](https://aaron67.cc/2018/12/26/bitcoin-transaction-script/) - by Aaron
 - [比特币脚本里的整数](https://aaron67.cc/2022/02/07/numbers-in-bsv-script/) - by Aaron
+- [OP_BIN2NUM 和 OP_NUM2BIN](https://aaron67.cc/2022/02/08/bsv-opcode-bin2num-num2bin/) - by Aaron
 - [部分文章索引](https://wiki.bsv.info/scrypt)
 
 ## 视频
