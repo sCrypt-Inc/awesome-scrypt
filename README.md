@@ -75,6 +75,8 @@
 - [Alan meets Satoshi](https://shilch.me/bitcoin-turing-complete/) - Understanding the bitcoin [turing completeness proof](https://xiaohuiliu.medium.com/turing-machine-on-bitcoin-7f0ebe0d52b1) of X. Liu by shilch
 - [trustless on-chain Bitcoin vanity address generation](https://medium.com/@sinkec.mihael/on-chain-outsourcing-of-vanity-address-generation-on-bitcoin-fe816729be06) by msinkec
 - [global unique ID enforced by miners](https://github.com/mr-word/manadocs-public/blob/master/for-bsv-devs.md) a proposal to have L1 tokens by Mr Word
+- [First attempt at the “Back to Genesis” issue](https://medium.com/@buildonbsv/first-attempt-at-the-back-to-genesis-issue-6144f398b724) - by Andrew Kondelin
+- [“Back to Genesis” Simplest Explanation](https://medium.com/@buildonbsv/back-to-genesis-simplest-explanation-7a9264ca6aed) - by Andrew Kondelin
 
 ## Videos
 
