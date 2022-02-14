@@ -77,7 +77,7 @@
 - [global unique ID enforced by miners](https://github.com/mr-word/manadocs-public/blob/master/for-bsv-devs.md) a proposal to have L1 tokens by Mr Word
 - [First attempt at the “Back to Genesis” issue](https://medium.com/@buildonbsv/first-attempt-at-the-back-to-genesis-issue-6144f398b724) - by Andrew Kondelin
 - [“Back to Genesis” Simplest Explanation](https://medium.com/@buildonbsv/back-to-genesis-simplest-explanation-7a9264ca6aed) - by Andrew Kondelin
-
+- [How to Create Overlay Networks inside Bitcoin Script](https://mdtechnologies.medium.com/how-to-create-overlay-networks-inside-bitcoin-script-a5f1a0504386) - by Murray Distributed Technologies
 ## Videos
 
 - [Learning sCrypt](https://www.youtube.com/playlist?list=PL0Kn1t30VSpG4Fu2ze81uDptBd1ZML99A) - A tutorial series teaching sCrypt
