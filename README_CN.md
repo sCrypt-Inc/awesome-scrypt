@@ -91,6 +91,7 @@
 - [比特币脚本里的整数](https://aaron67.cc/2022/02/07/numbers-in-bsv-script/) - by Aaron
 - [OP_BIN2NUM 和 OP_NUM2BIN](https://aaron67.cc/2022/02/08/bsv-opcode-bin2num-num2bin/) - by Aaron
 - [操作码 OP_CHECKSIG 和 SIGHASH 标记](https://aaron67.cc/2022/02/28/bsv-opcode-checksig-and-sighash-flags/) - by Aaron
+- [有状态的 UTXO 和 OP_PUSH_TX 的技术原理](https://aaron67.cc/2022/03/06/bsv-stateful-utxo-and-op-push-tx/) - by Aaron
 - [部分文章索引](https://wiki.bsv.info/scrypt)
 
 ## 视频
