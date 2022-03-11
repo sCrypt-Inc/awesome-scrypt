@@ -93,6 +93,7 @@
 - [操作码 OP_CHECKSIG 和 SIGHASH 标记](https://aaron67.cc/2022/02/28/bsv-opcode-checksig-and-sighash-flags/) - by Aaron
 - [有状态的 UTXO 和 OP_PUSH_TX 的技术原理](https://aaron67.cc/2022/03/06/bsv-stateful-utxo-and-op-push-tx/) - by Aaron
 - [BSV 交易签名相关的技术名词](https://aaron67.cc/2022/03/09/technical-terms-related-to-bsv-transaction-signature/) - by Aaron
+- [计数器合约详解](https://aaron67.cc/2022/03/11/bsv-smart-contract-counter-detailed-explanation/) - by Aaron
 - [部分文章索引](https://wiki.bsv.info/scrypt)
 
 ## 视频
