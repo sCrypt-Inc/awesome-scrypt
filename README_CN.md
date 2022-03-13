@@ -121,7 +121,7 @@
 - [Sensible Fungible Token](https://github.com/sensible-contract/token_sensible)
 - [Sensible NFT](https://github.com/sensible-contract/nft)
 - [Sensible NFT拍卖](https://github.com/sensible-contract/nft-auction-js)
-- [价格对赌](https://gist.github.com/gitzhou/7f4f8709590995ac8b7c008d7860bada) - 价格信息来自Oracle WitnessOnChain
+- 价格对赌[合约](https://github.com/gitzhou/scrypt-playground/blob/master/contracts/price-bet.scrypt)及[测试用例](https://github.com/gitzhou/scrypt-playground/blob/master/tests/js/price-bet.scrypttest.js) - 价格信息来自Oracle [WitnessOnChain](https://witnessonchain.com/#exchange-rates)
 
 ## 库合约
 
