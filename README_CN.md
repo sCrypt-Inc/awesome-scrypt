@@ -118,6 +118,7 @@
 
 - [sCrypt Project Boilerplate](https://github.com/sCrypt-Inc/boilerplate) - 官方及社区共同维护的 sCrypt 合约实例及测试代码，数量已超过 80 个并持续增长中；
 - [Gist](https://gist.github.com/ccoincash) - 示例合约和部署代码，包含token sale, 交易解析, merkle tree, token swap, and 二元期权 by 陈诚
+- [Aaron's sCrypt playground](https://github.com/gitzhou/scrypt-playground)
 - [Sensible Fungible Token](https://github.com/sensible-contract/token_sensible)
 - [Sensible NFT](https://github.com/sensible-contract/nft)
 - [Sensible NFT拍卖](https://github.com/sensible-contract/nft-auction-js)
