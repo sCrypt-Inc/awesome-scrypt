@@ -55,6 +55,7 @@
 
 ### 官方博客
 
+- [基于 sCrypt 合约开发一个完整的 dApp：井字棋游戏](https://blog.csdn.net/freedomhero/article/details/115419901)
 - [使用 sCrypt 智能合约在比特币上实现康威生命游戏](https://blog.csdn.net/freedomhero/article/details/111152834) - 一个简单的游戏合约
 - [比特币上的数独游戏合约](https://blog.csdn.net/freedomhero/article/details/112758212) - 一个可实现链上外包求解数独的合约
 - [比特币网络上公平的掷硬币游戏](https://blog.csdn.net/freedomhero/article/details/114257034) - 链上掷硬币游戏合约
