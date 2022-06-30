@@ -142,6 +142,7 @@
 
 ## Wallet Supports
 
+- [Sensilet](https://sensilet.com/) - Metamask on Bitcoin SV
 - [DotWallet](https://www.dotwallet.com/en/article/269) - Support arbitrary sCrypt Smart Contracts, like MetaMask.
 - [Volt](https://volt.id)
 

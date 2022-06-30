@@ -157,6 +157,7 @@
 
 ## 钱包支持
 
+- [Sensilet](https://sensilet.com/) - Metamask on Bitcoin SV
 - [打点钱包](https://www.dotwallet.com/en/article/269)
 - [Volt钱包](https://volt.id/#/)
 
