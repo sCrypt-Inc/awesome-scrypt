@@ -98,6 +98,7 @@
 - [An introduction of sCrypt Development Tools](https://youtu.be/TX7HXq7EeKc) - BSV Webinar Episode 3 in 2021 by Yiqiang Wang (in Chinese).
 - [How to Program Smart Contracts on BSV](https://youtu.be/9v3bKpvABXA) - Demonstrate how to build Smart Contracts using sCrypt at BSV SF Meetup 2019 by X. Liu.
 - [Bitcoin Smart Contracts, Relationship with Satoshi, BSV](https://youtu.be/gcwjPH4iR74) - X. Liu at the Friendly Bear podcast to discuss his journey into smart contracts for Bitcoin SV and also on his relationship with Satoshi
+- [Dubai Conference Review at CoinGeek Weekly Livestream](https://youtu.be/8R8p1iuVKxc) - X. Liu talks ETH, BSV, and transpiler with Kurt Wuckert Jr.
 
 ## Code Samples
 
