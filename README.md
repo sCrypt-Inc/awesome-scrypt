@@ -84,6 +84,7 @@
 
 - [Learning sCrypt](https://www.youtube.com/playlist?list=PL0Kn1t30VSpG4Fu2ze81uDptBd1ZML99A) - A tutorial series teaching sCrypt
 - [Bitcoin Class with Satoshi](https://youtube.com/playlist?list=PL0Kn1t30VSpEmlsKxlTrlW7s9zGoLgJFY) - Weekly Bitcoin class with Dr. Craig Wright and Xiaohui Liu.
+- [BSV Dubai Conference](https://youtu.be/c_zAlkImgTU) - Solidity Transpiler and How to implement BTC, ETH, Zcash, and Monero on Bitcoin
 - [sCrypt Online Meetups](https://www.youtube.com/playlist?list=PL0Kn1t30VSpFvpa872C_sZLwFaccHxU9W) - Recordings of Weekly sCrypt meetups
 - [Smart Contracts with sCrypt](https://youtube.com/watch?v=neFzipqzegU) - 4-part series by Stephan February of TwoStack.
 - [Getting Started with sCrypt](https://www.buildonbsv.com/) - Setup, deploy, and line-by-line breakdown of an escrow contract by Ty Everett.
@@ -96,7 +97,7 @@
 - [Introduction to sCrypt](https://youtu.be/kQlA1VwzU70) - At BSV Devcon China 2020 by Yiqiang Wang (in Chinese).
 - [An introduction of sCrypt Development Tools](https://youtu.be/TX7HXq7EeKc) - BSV Webinar Episode 3 in 2021 by Yiqiang Wang (in Chinese).
 - [How to Program Smart Contracts on BSV](https://youtu.be/9v3bKpvABXA) - Demonstrate how to build Smart Contracts using sCrypt at BSV SF Meetup 2019 by X. Liu.
-
+- [Bitcoin Smart Contracts, Relationship with Satoshi, BSV](https://youtu.be/gcwjPH4iR74) - X. Liu at the Friendly Bear podcast to discuss his journey into smart contracts for Bitcoin SV and also on his relationship with Satoshi
 
 ## Code Samples
 
