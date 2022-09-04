@@ -27,6 +27,7 @@
 - [集成开发环境](#集成开发环境)
 - [实际应用](#实际应用)
 - [钱包支持](#钱包支持)
+- [水龙头](#水龙头)
 - [交流社区](#交流社区)
 - [License](#license)
 
@@ -161,6 +162,13 @@
 - [打点钱包](https://www.dotwallet.com/en/article/269)
 - [Volt钱包](https://volt.id/#/)
 
+## 水龙头
+
+- [sCrypt](https://scrypt.io/#faucet)
+- [bitcoincloud](https://faucet.bitcoincloud.net)
+- [witnessonchain](https://witnessonchain.com/faucet/tbsv)
+- [Satoshi Vision](https://testnet.satoshisvision.network)
+- [Bitails](https://faucet.bitails.net)
 
 ## 交流社区
 

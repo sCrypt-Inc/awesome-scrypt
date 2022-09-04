@@ -28,6 +28,7 @@
 - [IDEs](#ides)
 - [Applications](#applications)
 - [Wallet Supports](#wallet-supports)
+- [Faucets](#faucets)
 - [Community](#community-1)
 - [License](#license)
 
@@ -147,6 +148,14 @@
 - [Sensilet](https://sensilet.com/) - Metamask on Bitcoin SV
 - [DotWallet](https://www.dotwallet.com/en/article/269) - Support arbitrary sCrypt Smart Contracts, like MetaMask.
 - [Volt](https://volt.id)
+
+## Faucets
+
+- [sCrypt](https://scrypt.io/#faucet)
+- [bitcoincloud](https://faucet.bitcoincloud.net)
+- [witnessonchain](https://witnessonchain.com/faucet/tbsv)
+- [Satoshi Vision](https://testnet.satoshisvision.network)
+- [Bitails](https://faucet.bitails.net)
 
 
 ## Community
