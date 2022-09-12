@@ -29,6 +29,7 @@
 - [Applications](#applications)
 - [Wallet Supports](#wallet-supports)
 - [Faucets](#faucets)
+- [Third-Party Tools](#third-party-tools)
 - [Community](#community-1)
 - [License](#license)
 
@@ -157,6 +158,8 @@
 - [Satoshi Vision](https://testnet.satoshisvision.network)
 - [Bitails](https://faucet.bitails.net)
 
+## Third-Party Tools
+- [ts-ts](https://github.com/adrianhunter/ts-ts) A Typescript to sCrypt transpiler
 
 ## Community
 

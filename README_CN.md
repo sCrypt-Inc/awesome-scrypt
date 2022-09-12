@@ -28,6 +28,7 @@
 - [实际应用](#实际应用)
 - [钱包支持](#钱包支持)
 - [水龙头](#水龙头)
+- [第三方工具](#第三方工具)
 - [交流社区](#交流社区)
 - [License](#license)
 
@@ -169,6 +170,9 @@
 - [witnessonchain](https://witnessonchain.com/faucet/tbsv)
 - [Satoshi Vision](https://testnet.satoshisvision.network)
 - [Bitails](https://faucet.bitails.net)
+
+## 第三方工具
+- [ts-ts](https://github.com/adrianhunter/ts-ts) A Typescript to sCrypt transpiler
 
 ## 交流社区
 
