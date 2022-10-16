@@ -118,12 +118,13 @@
 - [OP_PUSH_TX](https://xiaohuiliu.medium.com/op-push-tx-3d3d279174c1) - Standard library OP_PUSH_TX.
 - [Optimal OP_PUSH_TX](https://xiaohuiliu.medium.com/optimal-op-push-tx-ded54990c76f) - Optimized OP_PUSH_TX.
 - [Fixed and Float Point](https://xiaohuiliu.medium.com/floating-point-in-scrypt-aa4637633ee7) - Fixed and floating point support.
+- [Math](https://blog.vala.ai/posts/fixmath/): log, exp, root and pow. [Repo](https://github.com/valapm/bsv-fixmath)
 - [Elliptic Curve](https://xiaohuiliu.medium.com/efficient-elliptic-curve-point-addition-and-multiplication-in-scrypt-script-f7e143a752e2) - Efficient elliptic curve point addition and multiplication on secp256k1
 - [Schnorr Signatures](https://xiaohuiliu.medium.com/schnorr-signatures-on-bitcoin-397ca51d8bda) - Schnorr signatures.
 - [Rabin Signatures](https://xiaohuiliu.medium.com/access-external-data-from-bitcoin-smart-contracts-2ecdc7448c43) - Oracle to sign arbitrary data.
 - [MAST](https://xiaohuiliu.medium.com/merkelized-abstract-syntax-tree-6a49b2008435) - Merklized Abstract Syntax Tree to Compress a Smart Contract Logarithmically.
 - [Tree Signatures](https://xiaohuiliu.medium.com/tree-signatures-8d03a8dd3077) - Efficient and Private Multisig.
-
+- [Bilinear Pairing](https://xiaohuiliu.medium.com/bilinear-pairings-on-bitcoin-57260fdbc81a)
 
 ## SDKs
 
