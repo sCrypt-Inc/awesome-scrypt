@@ -25,6 +25,7 @@
 - [库合约](#库合约)
 - [SDKs](#sdks)
 - [集成开发环境](#集成开发环境)
+- [Tranpiler](#tranpiler)
 - [实际应用](#实际应用)
 - [钱包支持](#钱包支持)
 - [水龙头](#水龙头)
@@ -147,8 +148,11 @@
 ## 集成开发环境
 
 - [桌面版](https://marketplace.visualstudio.com/items?itemName=bsv-scrypt.sCrypt) - Visual Studio Code 插件 IDE
-- [云版](https://scrypt.studio) - 在线开发环境
+- [Playground](https://playground.scrypt.io/) - 在线IDE
+- [Studio](https://scrypt.studio) - 在线轻量版IDE
 
+## Tranpiler
+- [Solidity to sCrypt](http://transpiler.bitcoinsv.com/): [发布](https://xiaohuiliu.medium.com/introducing-solidity-to-scrypt-transpiler-a0a6907bb3ef) and [源码](https://github.com/bitcoin-sv/sol2scrypt)
 
 ## 实际应用
 - [感应合约](https://sensiblecontract.org/) - 一个基于 sCrypt 的智能合约溯源及协作协议
