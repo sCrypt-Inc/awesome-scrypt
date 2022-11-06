@@ -82,6 +82,8 @@
 - [“Back to Genesis” Simplest Explanation](https://medium.com/@buildonbsv/back-to-genesis-simplest-explanation-7a9264ca6aed) - by Andrew Kondelin
 - [How to Create Overlay Networks inside Bitcoin Script](https://mdtechnologies.medium.com/how-to-create-overlay-networks-inside-bitcoin-script-a5f1a0504386) - by Murray Distributed Technologies
 - [Bitcoin’s Decentralized Exchange based on UTXO](https://chainbow.medium.com/bitcoins-decentralized-exchange-based-one-utxo-5c6665494550) - by Chainbow
+- [Scaling scripts with Merkle Trees](https://blog.vala.ai/posts/merkletree/): code [repo](https://github.com/valapm/bsv-merkletree)
+- [Your type is not type](https://www.getrevue.co/profile/NikamotoSV/issues/your-type-is-not-type-1396111)
 
 ## Videos
 
