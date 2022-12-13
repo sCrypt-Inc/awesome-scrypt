@@ -115,6 +115,7 @@
 - [Sensible NFT Auction](https://github.com/sensible-contract/nft-auction-js)
 - [Pricing betting](https://gist.github.com/gitzhou/7f4f8709590995ac8b7c008d7860bada) - price info from Oracle WitnessOnChain
 - [Evisource](https://github.com/BuildOnBSV/evisource) - oracle service
+- [ERC721](https://gist.github.com/blockative/8bc748c688f56d2d7b595977f83e858f)
 
 ## Libraries
 

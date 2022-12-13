@@ -128,6 +128,7 @@
 - [Sensible NFT拍卖](https://github.com/sensible-contract/nft-auction-js)
 - 价格对赌[合约](https://github.com/gitzhou/scrypt-playground/blob/master/contracts/price-bet.scrypt)及[测试用例](https://github.com/gitzhou/scrypt-playground/blob/master/tests/js/price-bet.scrypttest.js) - 价格信息来自Oracle [WitnessOnChain](https://witnessonchain.com/#exchange-rates)
 - [Evisource](https://github.com/BuildOnBSV/evisource) - oracle 服务
+- [ERC721](https://gist.github.com/blockative/8bc748c688f56d2d7b595977f83e858f)
 
 ## 库合约
 
