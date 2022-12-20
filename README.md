@@ -72,7 +72,7 @@
 ### Community
 - [TimeLock Bitcoin and Tokens via sCrypt](https://coingeek.com/timelock-bitcoin-and-tokens-via-scrypt-%E2%8C%9B/) - Provably lock up bitcoins/tokens till a certain time by Joshua Henslee.
 - [Non-Custodial Agent Bitcoin Transfer](https://medium.com/tokenized-blog/non-custodial-agent-bitcoin-transfer-afacb9c4c625) - Avoid custodial risk using OP_PUSH_TX by Tokenized.
-- [How to "Hack" OP_PUSH_TX](https://www.getrevue.co/profile/NikamotoSV/issues/a-1-65k-probability-to-fail-875203) - by frenchfrog42
+- [How to "Hack" OP_PUSH_TX](https://nikamotosv.substack.com/p/a-1-over-65k-probability-to-fail) - by frenchfrog42
 - [Merkle tree proof based data storage](https://powping.com/posts/fe6cc987ecfc2f799ed465b41bc959e4c58f2fe8b2af477ce27da49103f26bf9) - A contract data storage approach by zhangweis.
 - [Bitcoin Script Engineering part II](https://medium.com/@Stas33496115/bitcoin-script-engineering-part-ii-ba8095f093c0) - Weather Derivative contract by Stas Trock.
 - [Alan meets Satoshi](https://shilch.me/bitcoin-turing-complete/) - Understanding the bitcoin [turing completeness proof](https://xiaohuiliu.medium.com/turing-machine-on-bitcoin-7f0ebe0d52b1) of X. Liu by shilch
@@ -83,7 +83,7 @@
 - [How to Create Overlay Networks inside Bitcoin Script](https://mdtechnologies.medium.com/how-to-create-overlay-networks-inside-bitcoin-script-a5f1a0504386) - by Murray Distributed Technologies
 - [Bitcoin’s Decentralized Exchange based on UTXO](https://chainbow.medium.com/bitcoins-decentralized-exchange-based-one-utxo-5c6665494550) - by Chainbow
 - [Scaling scripts with Merkle Trees](https://blog.vala.ai/posts/merkletree/): code [repo](https://github.com/valapm/bsv-merkletree)
-- [Your type is not type](https://www.getrevue.co/profile/NikamotoSV/issues/your-type-is-not-type-1396111)
+- [Your type is not type](https://nikamotosv.substack.com/p/your-type-is-not-type) - by frenchfrog42
 
 ## Videos
 
