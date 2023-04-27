@@ -70,6 +70,7 @@
 - [Read More](https://xiaohuiliu.medium.com/)
 
 ### Community
+- [Ordinal Lock](https://docs.1satordinals.com/ordinal-lock) - Trustless on-chain sale of ordinals NFT
 - [TimeLock Bitcoin and Tokens via sCrypt](https://web.archive.org/web/20210504001128/https://coingeek.com/timelock-bitcoin-and-tokens-via-scrypt-%E2%8C%9B/) - Provably lock up bitcoins/tokens till a certain time by Joshua Henslee.
 - [Non-Custodial Agent Bitcoin Transfer](https://medium.com/tokenized-blog/non-custodial-agent-bitcoin-transfer-afacb9c4c625) - Avoid custodial risk using OP_PUSH_TX by Tokenized.
 - [How to "Hack" OP_PUSH_TX](https://nikamotosv.substack.com/p/a-1-over-65k-probability-to-fail) - by frenchfrog42
