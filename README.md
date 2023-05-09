@@ -110,6 +110,7 @@
 
 - [sCrypt Project Boilerplate](https://github.com/sCrypt-Inc/boilerplate) - Official boilerplate with 80 contract examples and growing.
 - [Aaron's sCrypt playground](https://github.com/gitzhou/scrypt-playground)
+- [Tic-Tac-Toe: Bitcoin](https://github.com/carlosamcruz/tictactoebitcoin) - using private key directly without wallet, video is on [Youtube](https://youtu.be/BdDT9R3qxmE)
 - [Gist](https://gist.github.com/ccoincash) - Sample contract and deploy code for token sale, transaction parsing, merkle tree, token swap, and binary option by ccoincash
 - [Sensible Fungible Token](https://github.com/sensible-contract/token_sensible)
 - [Sensible NFT](https://github.com/sensible-contract/nft)
