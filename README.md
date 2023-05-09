@@ -158,6 +158,7 @@
 
 - [Sensilet](https://sensilet.com/) - Metamask on Bitcoin SV
 - [DotWallet](https://www.dotwallet.com/en/article/269) - Support arbitrary sCrypt Smart Contracts, like MetaMask.
+- [TAAL wallet](https://chrome.google.com/webstore/detail/taal-wallet/engokokaoeppkmchbkjeoeimiffobcke?hl=en-GB) - An open-source, non-custodial Web3 wallet for the BSV blockchain.
 - [Volt](https://volt.id)
 
 ## Faucets

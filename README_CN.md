@@ -166,6 +166,7 @@
 
 - [Sensilet](https://sensilet.com/) - Metamask on Bitcoin SV
 - [打点钱包](https://www.dotwallet.com/en/article/269)
+- [TAAL wallet](https://chrome.google.com/webstore/detail/taal-wallet/engokokaoeppkmchbkjeoeimiffobcke?hl=en-GB)
 - [Volt钱包](https://volt.id/#/)
 
 ## 水龙头
