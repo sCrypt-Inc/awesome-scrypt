@@ -174,6 +174,7 @@ https://youtu.be/OcSQAOyoFXk) - by Yusufi
 - [Bitails](https://faucet.bitails.net)
 
 ## Third-Party Tools
+- [Baguette](https://replit-docs.frenchfrog42.repl.co/) a Lisp to Bitcoin Script compiler
 - [ts-ts](https://github.com/adrianhunter/ts-ts) A Typescript to sCrypt transpiler
 
 ## Community
