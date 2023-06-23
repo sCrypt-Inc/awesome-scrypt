@@ -153,6 +153,7 @@ https://youtu.be/OcSQAOyoFXk) - by Yusufi
 
 ## Applications
 
+- [Zero-Knowledge Proof Hackathon finalists](https://bsvhackathon.devpost.com/project-gallery)
 - [TokenSwap](https://tswap.io) - Onchain DEX.
 - [CUTP](https://github.com/CUTP) - Controllable UTXO Token Protocol.
 
