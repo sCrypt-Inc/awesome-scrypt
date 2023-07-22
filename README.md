@@ -167,7 +167,7 @@ https://youtu.be/OcSQAOyoFXk) - by Yusufi
 
 ## Faucets
 
-- [sCrypt](https://scrypt.io/#faucet)
+- [sCrypt](https://scrypt.io/faucet)
 - [bitcoincloud](https://faucet.bitcoincloud.net)
 - [witnessonchain](https://witnessonchain.com/faucet/tbsv)
 - [Satoshi Vision](https://testnet.satoshisvision.network)

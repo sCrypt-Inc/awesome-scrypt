@@ -171,7 +171,7 @@
 
 ## 水龙头
 
-- [sCrypt](https://scrypt.io/#faucet)
+- [sCrypt](https://scrypt.io/faucet)
 - [bitcoincloud](https://faucet.bitcoincloud.net)
 - [witnessonchain](https://witnessonchain.com/faucet/tbsv)
 - [Satoshi Vision](https://testnet.satoshisvision.network)
