@@ -26,7 +26,7 @@
 - [Libraries](#libraries)
 - [SDKs](#sdks)
 - [IDEs](#ides)
-- [Tranpiler](#tranpiler)
+- [Transpiler](#transpiler)
 - [Applications](#applications)
 - [Wallet Supports](#wallet-supports)
 - [Faucets](#faucets)
@@ -148,7 +148,7 @@ https://youtu.be/OcSQAOyoFXk) - by Yusufi
 - [Playground](https://playground.scrypt.io/) - Online IDE: [announcement](https://xiaohuiliu.medium.com/introducing-scrypt-playground-bdc76ab2adc5)
 - [Studio](https://scrypt.studio) - Online light-weight IDE
 
-## Tranpiler
+## Transpiler
 - [Solidity to sCrypt](http://transpiler.bitcoinsv.com/): [announcement](https://xiaohuiliu.medium.com/introducing-solidity-to-scrypt-transpiler-a0a6907bb3ef) and [source code](https://github.com/bitcoin-sv/sol2scrypt)
 
 ## Applications
