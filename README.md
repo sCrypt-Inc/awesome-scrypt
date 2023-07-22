@@ -90,6 +90,8 @@
 
 - [Learning sCrypt](https://www.youtube.com/watch?v=XxGi8_85kp0&list=PL0Kn1t30VSpGcbwN-bcbU1-x0fRAoq-GI) - A tutorial series teaching sCrypt
 - [Bitcoin Class with Satoshi](https://youtube.com/playlist?list=PL0Kn1t30VSpEmlsKxlTrlW7s9zGoLgJFY) - Weekly Bitcoin class with Dr. Craig Wright and Xiaohui Liu.
+- [sCrypt Smart Contracts](https://www.youtube.com/@yusufidimaina9989) - Tutorials and meetups
+- [Hello World with React](https://www.youtube.com/watch?v=8uOUZruAChY) - Simple examples 
 - [BSV Dubai Conference](https://youtu.be/c_zAlkImgTU) - Solidity Transpiler and How to implement BTC, ETH, Zcash, and Monero on Bitcoin
 - [sCrypt Online Meetups](https://www.youtube.com/playlist?list=PL0Kn1t30VSpFvpa872C_sZLwFaccHxU9W) - Recordings of Weekly sCrypt meetups
 - [Smart Contracts with sCrypt](https://youtube.com/watch?v=neFzipqzegU) - 4-part series by Stephan February of TwoStack.
