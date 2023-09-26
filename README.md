@@ -157,6 +157,7 @@ https://youtu.be/OcSQAOyoFXk) - by Yusufi
 
 - [Zero-Knowledge Proof Hackathon finalists](https://bsvhackathon.devpost.com/project-gallery)
 - [University of Exeter Hackathon finalists](https://coingeek.com/university-of-exeter-hackathon-finalists-revealed-anyone-can-build-smart-contracts-using-scrypt/)
+- [Hodlocker](https://www.hodlocker.com) - the first social network around users locking up bitcoins
 - [TokenSwap](https://tswap.io) - Onchain DEX.
 - [CUTP](https://github.com/CUTP) - Controllable UTXO Token Protocol.
 
