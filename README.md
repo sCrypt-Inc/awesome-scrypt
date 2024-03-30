@@ -89,6 +89,7 @@
 ## Videos
 
 - [Learning sCrypt](https://www.youtube.com/watch?v=XxGi8_85kp0&list=PL0Kn1t30VSpGcbwN-bcbU1-x0fRAoq-GI) - A tutorial series teaching sCrypt
+- [sCrypt 101](https://www.youtube.com/playlist?list=PLS85rLsNeKer25rAwJCB-UTy3hcU3aoZS) - an in-depth look into the world of sCrypt smart contracts by Project Babbage
 - [Bitcoin Class with Satoshi](https://youtube.com/playlist?list=PL0Kn1t30VSpEmlsKxlTrlW7s9zGoLgJFY) - Weekly Bitcoin class with Dr. Craig Wright and Xiaohui Liu.
 - [sCrypt Smart Contracts](https://www.youtube.com/@yusufidimaina9989) - Tutorials and meetups
 - [Hello World with React](https://www.youtube.com/watch?v=8uOUZruAChY) - Simple examples 
